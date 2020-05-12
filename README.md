@@ -12,6 +12,6 @@ All images are either custom by Alpa D Desai or a reference name is provided. Mo
 ![image](MSTImageMay2020.jpg)
 
 
-### Polynomial execution time
+### Polynomial Execution Time
 ![image](LinuxPlatform.jpg)
 
