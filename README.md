@@ -9,3 +9,7 @@ All images are either custom by Alpa D Desai or a reference name is provided. Mo
 ### Minimum Spanning Algorithm 
 ![image](MSTImageMay2020.jpg)
 
+
+## Linux Platform 
+![image](LinuxPlatform.jpg)
+
