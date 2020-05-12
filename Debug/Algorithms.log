@@ -1,0 +1,10 @@
+﻿  CustomAlgorithms_AD.cpp
+  HuffmanCodingAlgorithm.cpp
+  InputGraphData.cpp
+  MinHeapify.cpp
+C:\Users\alpag\source\repos\Algorithms\Algorithms\MinHeapify.cpp(102,20): warning C4018: '<': signed/unsigned mismatch
+  MSTAlgorithm.cpp
+  NonWeightedSPST.cpp
+  OptimalSPSTAlgorithm.cpp
+  Generating Code...
+  Algorithms.vcxproj -> C:\Users\alpag\source\repos\Algorithms\Debug\Algorithms.exe
