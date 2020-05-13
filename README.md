@@ -17,3 +17,6 @@ All images are either custom by Alpa D Desai or a reference name is provided. Mo
 
 ## Graph theory algorithms
 ![image](GraphTheoryAlgorithms.jpg)
+
+## Data Structures and Algorithms C/C++
+![image](DataStructuresAlgorithms.jpg)
