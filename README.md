@@ -19,4 +19,4 @@ All images are either custom by Alpa D Desai or a reference name is provided. Mo
 ![image](GraphTheoryAlgorithmCertificate.jpg)
 
 ## Data Structures and Algorithms C/C++
-![image](DataStructuresAlgorithms.jpg)
+![image](DataStructuresAlgorithmsCertificate.jpg)
