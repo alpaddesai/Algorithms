@@ -16,7 +16,7 @@ All images are either custom by Alpa D Desai or a reference name is provided. Mo
 ![image](LinuxPlatform.jpg)
 
 ## Graph theory algorithms
-![image](GraphTheoryAlgorithms.jpg)
+![image](GraphTheoryAlgorithmCertificate.jpg)
 
 ## Data Structures and Algorithms C/C++
 ![image](DataStructuresAlgorithms.jpg)
