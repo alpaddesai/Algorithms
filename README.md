@@ -21,6 +21,9 @@ All images are either custom by Alpa D Desai or a reference name is provided. Mo
 ## Data Structures and Algorithms C/C++
 ![image](DataStructuresAlgorithmsCertificate.jpg)
 
+## Ethics and Integrity
+![image](EthicsandExcellence.png)
+
 ## Interest 
 ![image](image1.jpg)
 ![image](image2.jpg)
