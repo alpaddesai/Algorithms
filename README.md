@@ -21,7 +21,7 @@ All images are either custom by Alpa D Desai or a reference name is provided. Mo
 ![image](DataStructuresAlgorithmsCertificate.jpg)
 
 ## Simulation and Performance
-![image](SimulationsPerformanceMetrics.jpg)
+![image](SimulationsPerformanceMetrics1.jpg)
 
 ## Ethics and Integrity
 ![image](EthicsandExcellence.png)
