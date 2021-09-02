@@ -11,7 +11,6 @@ All images are either custom by Alpa D Desai or a reference name is provided. Mo
 ### Custom Algorithms - MST, SPST, Huffman, Data structures, Heapify  
 ![image](MSTImageMay2020.jpg)
 
-
 ### Polynomial Execution Time
 ![image](LinuxPlatform.jpg)
 
@@ -20,6 +19,9 @@ All images are either custom by Alpa D Desai or a reference name is provided. Mo
 
 ## Data Structures and Algorithms C/C++
 ![image](DataStructuresAlgorithmsCertificate.jpg)
+
+## Simulation and Performance
+![image](SimulationsPerformance.jpg)
 
 ## Ethics and Integrity
 ![image](EthicsandExcellence.png)
