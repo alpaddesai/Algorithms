@@ -26,8 +26,4 @@ All images are either custom by Alpa D Desai or a reference name is provided. Mo
 ## Ethics and Integrity
 ![image](EthicsandExcellence.png)
 
-## Interest 
-![image](image1.jpg)
-![image](image2.jpg)
-
 Further details reference : https://github.com/alpaddesai/CodingCombinatorialOptimization and https://github.com/alpaddesai/ObjectOrientedDesignProgramming
