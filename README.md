@@ -23,9 +23,6 @@ All images are either custom by Alpa D Desai or a reference name is provided. Mo
 ## Simulation and Performance
 ![image](SimulationsPerformanceMetrics1.jpg)
 
-## Exam
-![image](CFAExam.jpg)
-
 ## Ethics and Integrity
 ![image](EthicsandExcellence.png)
 
