@@ -28,4 +28,4 @@ All images are either custom by Alpa D Desai or a reference name is provided. Mo
 
 ![image](USCopyrightCertificate.png)
 
-Further details reference : https://github.com/alpaddesai/CodingCombinatorialOptimization and https://github.com/alpaddesai/ObjectOrientedDesignProgramming
+Further details reference : https://github.com/alpaddesai/DataStructures and https://github.com/alpaddesai/ObjectOrientedDesignProgramming
